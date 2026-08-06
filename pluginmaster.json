@@ -4,7 +4,7 @@
     "Name": "Truth or Dare",
     "Punchline": "Multiplayer Truth or Dare game for FFXIV",
     "Description": "Connect with friends to play Truth or Dare directly in FFXIV. Host game sessions, roll random numbers, and see who wins or loses each round.",
-    "InternalName": "TruthOrDare.Plugin",
+    "InternalName": "TruthOrDare",
     "AssemblyVersion": "1.0.0",
     "RepoUrl": "https://github.com/kiwigen/TruthOrDare",
     "ApplicableVersion": "any",
