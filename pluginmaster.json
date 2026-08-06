@@ -1,0 +1,32 @@
+[
+  {
+    "Author": "Avi",
+    "Name": "Truth or Dare",
+    "Punchline": "Multiplayer Truth or Dare game for FFXIV",
+    "Description": "Connect with friends to play Truth or Dare directly in FFXIV. Host game sessions, roll random numbers, and see who wins or loses each round.",
+    "InternalName": "TruthOrDare",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/yourusername/TruthOrDare",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://yourusername.github.io/dalamud-repo/plugins/TruthOrDare/latest.zip",
+    "DownloadLinkUpdate": "https://yourusername.github.io/dalamud-repo/plugins/TruthOrDare/latest.zip",
+    "DownloadLinkTesting": "https://yourusername.github.io/dalamud-repo/plugins/TruthOrDare/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1722960000",
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "IconUrl": "https://yourusername.github.io/dalamud-repo/plugins/TruthOrDare/icon.png",
+    "Tags": [
+      "multiplayer",
+      "game",
+      "social",
+      "ui"
+    ],
+    "CategoryTags": [
+      "social"
+    ]
+  }
+]
