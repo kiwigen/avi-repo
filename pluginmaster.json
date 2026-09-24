@@ -53,5 +53,30 @@
       "maps",
       "utility"
     ]
+  },
+  {
+    "Author": "Avi",
+    "Name": "Tankbustin",
+    "Punchline": "Trigger Lovense toys from in-game events.",
+    "Description": "Connects to Lovense toys and triggers based on customisable triggers.",
+    "InternalName": "TankbustinDeasKitty",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/kiwigen/Tankbustin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://kiwigen.github.io/avi-repo/plugins/Tankbustin/latest.zip",
+    "DownloadLinkUpdate": "https://kiwigen.github.io/avi-repo/plugins/Tankbustin/latest.zip",
+    "DownloadLinkTesting": "https://kiwigen.github.io/avi-repo/plugins/Tankbustin/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1790263246",
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "IconUrl": "https://kiwigen.github.io/avi-repo/plugins/Tankbustin/tankbuster.png",
+    "Tags": [
+      "maps",
+      "utility"
+    ]
   }
 ]

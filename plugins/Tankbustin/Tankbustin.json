@@ -1,0 +1,20 @@
+{
+  "Author": "Avi",
+  "Name": "Tankbustin",
+  "InternalName": "Tankbustin",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Connects to Lovense toys and triggers based on customisable triggers.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kiwigen/Tankbustin",
+  "Tags": ["toy"],
+  "CategoryTags": [
+    "other"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Trigger Lovense toys from in-game events.",
+  "AcceptsFeedback": true
+}
