@@ -75,7 +75,29 @@
     "LoadSync": false,
     "IconUrl": "https://kiwigen.github.io/avi-repo/plugins/Tankbustin/tankbuster.png",
     "Tags": [
-      "maps",
+      "utility"
+    ]
+  },
+  {
+    "Author": "Solona, Avi",
+    "Name": "Proteus - Smallfork",
+    "Punchline": "Proteus just a smallfork",
+    "Description": "Smallfork of Proteus, 99.99999% orginal.",
+    "InternalName": "Proteus",
+    "AssemblyVersion": "2610.897.0.0",
+    "RepoUrl": "https://github.com/kiwigen/Tankbustin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://kiwigen.github.io/avi-repo/plugins/Proteus/latest.zip",
+    "DownloadLinkUpdate": "https://kiwigen.github.io/avi-repo/plugins/Proteus/latest.zip",
+    "DownloadLinkTesting": "https://kiwigen.github.io/avi-repo/plugins/Proteus/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "IconUrl": "https://kiwigen.github.io/avi-repo/plugins/Proteus/images/proteus.png",
+    "Tags": [
       "utility"
     ]
   }
