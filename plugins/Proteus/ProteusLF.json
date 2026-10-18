@@ -1,0 +1,35 @@
+{
+  "Author": "Solona, Avi",
+  "Name": "Proteus",
+  "InternalName": "ProteusLF",
+  "AssemblyVersion": "2610.897.0.0",
+  "Description": "Smallfork of Proteus, 99.99999% orginal Proteus.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/solona-m/proteus",
+  "Tags": [
+    "texture",
+    "overlay",
+    "compositor",
+    "penumbra",
+    "glamourer",
+    "skin",
+    "gear",
+    "glamour",
+    "color",
+    "mod",
+    "model",
+    "hair",
+    "hat"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
+  "Punchline": "Proteus just a smallfork",
+  "AcceptsFeedback": true
+}
